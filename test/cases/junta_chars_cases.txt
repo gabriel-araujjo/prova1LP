@@ -1,0 +1,5 @@
+a b ab
+b c bc
+x z xz
+w a wa
+f o fo
